@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "History",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 2,
+    "Name": "Romance",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 3,
+    "Name": "Biography",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 4,
+    "Name": "Historical-Fiction",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 5,
+    "Name": "Science-Fiction",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 6,
+    "Name": "Detective",
+    "BooksOfCategory": []
+  },
+  {
+    "Id": 7,
+    "Name": "Horror",
+    "BooksOfCategory": []
+  }
+]

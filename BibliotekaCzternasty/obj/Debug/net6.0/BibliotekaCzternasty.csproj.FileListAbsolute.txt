@@ -1,0 +1,17 @@
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\BibliotekaCzternasty.exe
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\BibliotekaCzternasty.deps.json
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\BibliotekaCzternasty.runtimeconfig.json
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\BibliotekaCzternasty.dll
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\BibliotekaCzternasty.pdb
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.csproj.AssemblyReference.cache
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.AssemblyInfoInputs.cache
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.AssemblyInfo.cs
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.csproj.CoreCompileInputs.cache
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.dll
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\refint\BibliotekaCzternasty.dll
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.pdb
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.genruntimeconfig.cache
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\ref\BibliotekaCzternasty.dll
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\48512\source\repos\BibliotekaCzternasty\BibliotekaCzternasty\obj\Debug\net6.0\BibliotekaCzternasty.csproj.CopyComplete

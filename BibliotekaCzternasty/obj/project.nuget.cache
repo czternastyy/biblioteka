@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HUXdCy0eNXf6OynmjqV9zln9XIMhmbUjEvLOFK6W3npZv5vIwnqEuMQsexbgxZgetgtfvkWila+dOO/xROReA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48512\\source\\repos\\BibliotekaCzternasty\\BibliotekaCzternasty\\BibliotekaCzternasty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48512\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

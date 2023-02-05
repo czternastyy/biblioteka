@@ -1,0 +1,1 @@
+[{"Id":1,"LoanedBook":{"Id":33,"Title":"The Exorcist","Author":"William Peter Blatty","Category":"Horror","IsLoaned":true},"LoanStart":"2023-01-24T00:00:00+01:00","LoanEnd":"2023-02-03T00:00:00+01:00","LoanLength":10}]
